@@ -1,4 +1,4 @@
-module github.com/Pallinder/go-randomdata
+module github.com/BoltApp/go-randomdata
 
 go 1.18
 
